@@ -1,3 +1,3 @@
 ## 支持我
 如果你觉得这个项目对你有帮助，可以请我喝杯咖啡 ☕  
-![微信收款码](assets/wechat.png)
+![微信收款码](assets/zhifubao.jpg)
